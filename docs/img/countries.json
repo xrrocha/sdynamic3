@@ -1,0 +1,30 @@
+[
+  {
+    "name": "USA",
+    "currency": "USD",
+    "population": 331.5,
+    "motto": "In God We Trust",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Canada",
+    "currency": "CAD",
+    "population": 38.0,
+    "motto": "A Mari Usque ad Mare",
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Mexico",
+    "currency": "MXN",
+    "population": 130.5,
+    "motto": "Patria, Libertad, Trabajo y Cultura",
+    "languages": [
+      "Spanish"
+    ]
+  }
+]

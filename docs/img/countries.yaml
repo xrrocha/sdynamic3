@@ -1,0 +1,18 @@
+- name: USA
+  currency: USD
+  population: 331.5
+  motto: In God We Trust
+  languages: [ English ]
+  flag: https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png
+- name: Canada
+  currency: CAD
+  population: 38.0
+  motto: A Mari Usque ad Mare<br> (<i>From sea to sea, D'un océan à l'autre</i>)
+  languages: [ English, French ]
+  flag: https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/30px-Flag_of_Canada.svg.png
+- name: Mexico
+  currency: MXN
+  population: 130.5
+  motto: Patria, Libertad, Trabajo y Cultura<br> (<i>Homeland, Freedom, Work and Culture</i>)
+  languages: [ Spanish ]
+  flag: https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png

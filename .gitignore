@@ -1,0 +1,14 @@
+.ammonite/
+.bloop/
+.bsp/
+.dotty-ide*
+.editorconfig
+.idea/
+.local/
+.metals/
+metals.sbt
+.sbtopts
+.scalafmt.conf
+target/
+.vscode/
+*.worksheet.sc
